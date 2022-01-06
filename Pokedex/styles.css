@@ -1,0 +1,44 @@
+/* Added some last minute styling, It's not the best or reactive but does look alright in desktop at about 1200px. */
+
+body {
+    display: flex;
+    background-image: url("maxresdefault.jpg");
+    /* margin-right: 300px;
+    text-align: center;
+    padding-left: 5%; */
+}
+
+.display {
+     padding-left: 300px;
+     padding-top: 50px;
+}   
+
+.data {
+    margin-right: 10px;
+    visibility: hidden;
+    line-height: 3px;
+}
+
+#title {
+   padding-left: 400px;
+   padding-top: 150px;
+}
+
+#image{
+    margin-left: -525px;
+    margin-top: -40px;
+}
+
+#pokemonName {
+    margin-left: -550px;
+    padding-top: 200px;
+    margin-bottom: -20px;
+}
+
+#create {
+    color: cornflowerblue;
+    display: flex;
+    margin-left: -150px;
+    margin-top: -35px;
+}
+
